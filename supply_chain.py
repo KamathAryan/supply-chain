@@ -5,6 +5,7 @@ from PIL import ImageOps
 import os
 import streamlit.components.v1 as components
 import base64
+import openpyxl
 # Set page config at the very top
 st.set_page_config(layout="wide")
 
